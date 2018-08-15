@@ -15,7 +15,7 @@ def create_prefix():
         device.disconnect()
         return output
 
-vasya = create_prefix()
+log = create_prefix()
 
-print(vasya)
+print(log)
 
